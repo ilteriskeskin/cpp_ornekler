@@ -4,8 +4,8 @@
 
 using namespace std;
 
-tuple<int, double> returnTuple()
-{
+tuple<int, double> returnTwoValue(){
+
     int num1 = 10;
     double num2 = 20;
 
@@ -13,11 +13,7 @@ tuple<int, double> returnTuple()
 }
 
 int main(){
-
-
-    auto t = returnTuple();
+    auto t = returnTwoValue();
 
     cout << get<0>(t) << endl << get<1>(t) << endl;
-
-    return 0;
 }
