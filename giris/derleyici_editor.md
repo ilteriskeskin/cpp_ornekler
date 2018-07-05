@@ -25,7 +25,7 @@ kolaylaştıracak eylemlerde bulunmuşlardır.
 IDE ise direkt derleyici ile entegre gelen, hata ayıklama yapmamızı sağlayan, otomatik düzeltme/tamamlama
 yapan araçlardır.
 
-Ben editör olarak Visual Studio Code, derleyici olarak gcc kullanmaktayım. Tabii siz nasıl rahat ediyorsanız
+Ben editör olarak Visual Studio Code, derleyici olarak g++ kullanmaktayım. Tabii siz nasıl rahat ediyorsanız
 onu kullanın.
 
 **Önerilen IDE'ler**
