@@ -34,4 +34,4 @@
 
 ## **Kaynakça:**
 
-[cplusplus](http://www.cplusplus.com/)
+[cplusplus.com](http://www.cplusplus.com/)
