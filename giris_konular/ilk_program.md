@@ -1,11 +1,10 @@
 ### Hazırsak İlk Programımızı Yazalım
 
-´´´c++
+'''c++
 #include<iostream>
 
 int main()
 {
     std::cout << "Merhaba C++";
 }
-
-´´´
+'''
