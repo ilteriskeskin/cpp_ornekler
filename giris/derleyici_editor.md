@@ -7,6 +7,7 @@ bu dile makine dili adı verilir. Makine dili ile yazılmış bir kodu okumak ve
 oldukça zahmetlidir. Bu yüzden yüksek seviyeli diller geliştirilmiştir. Bu dillerin özelliği anlaşılması
 ve yazılması kolay olmasıdır. Bu dillerin makine diline çevrilerek bilgisayarın anlaması için ise 
 derleyiciler geliştirilmiştir. 
+
 **Derleyici yazılan programın makine diline dönüştürülmesi işine yarar.** 
 
 **Önerilen Derleyiciler**
