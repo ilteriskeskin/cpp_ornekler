@@ -1,6 +1,8 @@
-<a href="url"><img src="https://user-images.githubusercontent.com/20879375/42376157-ce7cfabe-8126-11e8-8b74-3fe772049de4.png" align="left" height="100" width="100" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/20879375/42376157-ce7cfabe-8126-11e8-8b74-3fe772049de4.png" align="center" height="100" width="100" ></a>
 
 <br>
+
+
 
 # C++ Örnekler
 
