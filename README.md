@@ -1,3 +1,5 @@
+![cpp](https://user-images.githubusercontent.com/20879375/42376157-ce7cfabe-8126-11e8-8b74-3fe772049de4.png)
+
 # C++ Örnekler
 
 ## C++ için hazırlanmış bazı örnek kodlar ve açıklamalar
