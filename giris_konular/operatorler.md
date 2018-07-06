@@ -6,12 +6,12 @@ Operatör dediğimiz şeyler bazı işlemleri yapmamızı sağlayan evresel semb
 
 Operatör | Açıklama
 -------- | --------
-= | Atama Operatörü
-+ | Toplama Operatörü
-- | Çıkarma Operatörü
-* | Çarpma Operatörü
-/ | Bölme Operatörü
-% | Mod Operatörü
+(=) | Atama Operatörü
+(+) | Toplama Operatörü
+(-) | Çıkarma Operatörü
+(*) | Çarpma Operatörü
+(/) | Bölme Operatörü
+(%) | Mod Operatörü
 
 ```c++
 #include <iostream>
@@ -47,3 +47,17 @@ için kullanılır.
 
 Operatör | Açıklama
 -------- | --------
+(==) | Eşit mi? 
+(!=) | Eşit Değil mi?
+(<) | Küçük mü?
+(>) | Büyük mü?
+(<=) | Küçük veya Eşit mi?
+(>=) | Büyük veya Eşit mi?
+
+**Az Önemli Not**
+
+Bu operatörler ile ilgili detaylı örnekler ileride yapılacaktır sakinliğinizi koruyun :)
+
+**Biraz Daha Fazla Önemli Not**
+
+Operatörlerin başında ve sonunda parantez işaretli yoktur. Markdown'un azizliği :)
