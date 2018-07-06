@@ -10,6 +10,7 @@
 
 * Giriş Seviye Konular
     * [İlk Program](giris_konular/ilk_program.md)
+    * [Değişkenler, Veri Tipleri, Kaçış Dizgeleri, Sabitler][giris_konular/degiskenler.md]
     * [Operatörler](giris_konular/operatorler.md)
     * [Giriş ve Çıkış Alma](giris_konular/giris_cikis.md)
 
