@@ -1,4 +1,4 @@
-![cpp](https://user-images.githubusercontent.com/20879375/42376157-ce7cfabe-8126-11e8-8b74-3fe772049de4.png = 250x250)
+![cpp](https://user-images.githubusercontent.com/20879375/42376157-ce7cfabe-8126-11e8-8b74-3fe772049de4.png "C++ Logo") {:height="100px" width="100px"}
 
 # C++ Örnekler
 
