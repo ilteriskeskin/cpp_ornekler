@@ -26,6 +26,8 @@ int main()
         cout << "x = ";
         cout << x << endl;
     }
+
+    if(x == 100) { cout << "x = "; cout << x << endl;}
 }
 ```
 
@@ -34,7 +36,36 @@ int main()
 ```
 x = 100
 x = 100
+x = 100
 ```
 
 Yukarıdaki örneklerde görüldüğü gibi tek satır bir if blogunda süslü parantez açmamıza gerek yoktur. Ancak
 bir satırdan fazla olan tüm if bloklarında süslü parantez açmalıyız.
+
+```c++
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int x = -4;
+
+    if(x > 0)
+        cout << "x pozitif" << endl;
+    else if( x < 0)
+        cout << "x negatif" << endl;
+    else
+        cout << "x = 0" << endl;
+}
+```
+
+**Ekran Çıktısı:**
+
+```
+x negatif
+```
+
+------------------------------------
+
+### DÖngüler
