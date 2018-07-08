@@ -29,7 +29,7 @@ Anlayışınız için teşekkür ederim :)
     * [Giriş ve Çıkış Alma](giris_konular/giris_cikis.md)
 
 * Orta Seviye Konular
-    * [Koşullu İfadeler ve Döngüler](orta_konular/kosul-dongu.md)
+    * [Koşullu İfadeler ve Döngüler](orta_konular/kosullar_donguler.md)
     * [Fonksiyonlar](orta_konular/fonksiyonlar.md)
     * [Overloads (Aşırı Yüklemeler) ve Templates (Şablonlar)](orta_konular/overloads_templates.md)
     * [Diziler](orta_konular/diziler.md)
