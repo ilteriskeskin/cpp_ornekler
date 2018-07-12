@@ -70,4 +70,4 @@ Toplam: 7
 Arkadaşlar bu kod diğeri ile aynı işi yapar. Fark ise kodunuzun daha okunaklı olması için **toplama** fonksiyonu
  **main** fonksiyonunun altına yazılmıştır. Yorum satırı ile belirtilen **Fonksiyon Prototipi** ise bize kodu 
  incelerken programda kullandığımız fonksiyonun ismini, dönüş tipini, aldığı **parametreleri** (sayi1, sayi2)
- gösterir. Böylece kod daha okunaklı bir hale gelmiş olur.
+ gösterir. Böylece kod daha okunaklı bir hale gelmiş olur.  

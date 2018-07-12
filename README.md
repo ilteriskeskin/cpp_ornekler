@@ -12,11 +12,16 @@
 
 --------------------------
 
+**Yeni Not**
+
+Okulla ilgili işlerim, sosyal işlerim ve çalıştığım yerde olan işlerimden dolayı biraz yavaş ilerliyoruz. 
+Anlayış göstereceğinizi umuyorum :) 
+
 **Not:**
 
 Hatalarım olabilir tek kişi projeye destek veriyorum. Gözümden kaçan noktalar olabilir. Ancak projeye katkı 
-sağlamakta özgürsünüz. Eğer farkettiğiniz bir hata, eksiklik vs. olursa lütfen bildirin ya da commit atın. 
-Anlayışınız için teşekkür ederim :)
+sağlamakta özgürsünüz. Eğer farkettiğiniz bir hata, eksiklik vs. olursa lütfen bildirin. Anlayışınız için 
+teşekkür ederim :)
 
 * Giriş
     * [Derleyici ve Editör](giris/derleyici_editor.md)
