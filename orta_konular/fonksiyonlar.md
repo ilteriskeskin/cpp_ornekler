@@ -71,3 +71,31 @@ Arkadaşlar bu kod diğeri ile aynı işi yapar. Fark ise kodunuzun daha okunakl
  **main** fonksiyonunun altına yazılmıştır. Yorum satırı ile belirtilen **Fonksiyon Prototipi** ise bize kodu 
  incelerken programda kullandığımız fonksiyonun ismini, dönüş tipini, aldığı **parametreleri** (sayi1, sayi2)
  gösterir. Böylece kod daha okunaklı bir hale gelmiş olur.  
+
+ **Soru:**
+
+ Fonksiyonlardan geriye yalnızca bir tane değer mi döndürebiliriz?
+
+ bknz. [Tuple](Örnekler/tuple)
+
+ ---------------------------
+
+### Geriye Değer Döndürmeyen Fonksiyonlar (Void)
+
+ ```c++
+    #include <iostream>
+
+    using namespace std;
+
+    void printmessage();
+
+    int main ()
+    {
+        printmessage();
+    }
+
+    void printmessage()
+    {
+        cout << "Geriye bir deger donmuyor!" << endl;
+    }
+ ```  
