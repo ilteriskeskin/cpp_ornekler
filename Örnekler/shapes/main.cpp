@@ -29,7 +29,7 @@ void draw(int kenar1, int kenar2)
         cout << "*";
     cout << endl;
 
-    for(int j = 1; j < kenar2; j++)
+    for(int j = 1; j < kenar2 - 1; j++)
         cout << "*" << string(kenar1 - 2, ' ') << "*" << endl;
 
     for(int k = 1; k <= kenar1; k++)
