@@ -2,8 +2,6 @@
 
 <br>
 
-
-
 # C++ Örnekler
 
 ## C++ için hazırlanmış bazı örnek kodlar ve açıklamalar
