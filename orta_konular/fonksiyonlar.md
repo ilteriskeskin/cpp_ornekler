@@ -80,7 +80,7 @@ Arkadaşlar bu kod diğeri ile aynı işi yapar. Fark ise kodunuzun daha okunakl
 
  ---------------------------
 
-### Geriye Değer Döndürmeyen Fonksiyonlar (Void)
+### Geriye Değer Döndürmeyen Fonksiyonlar (Tipsiz Fonksiyonlar - Void)
 
  ```c++
     #include <iostream>
@@ -99,3 +99,13 @@ Arkadaşlar bu kod diğeri ile aynı işi yapar. Fark ise kodunuzun daha okunakl
         cout << "Geriye bir deger donmuyor!" << endl;
     }
  ```  
+
+ **Ekran Çıktısı:**
+
+ ```
+Geriye bir deger donmuyor!
+ ```
+
+ Örnekte görüldüğü gibi eğer **void** tipinde bir fonksiyon yazıyor isek **return** fonksiyonu ile
+ geriye değer döndürmez. Ekrana bir çıktı verebilir.
+
