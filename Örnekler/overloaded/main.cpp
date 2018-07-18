@@ -8,7 +8,7 @@ double func(double, double);
 int main(int argc, char const *argv[])
 {
     int x = 3, y = 5;
-    double n = 3.4, m = 1.7;
+    double n = 3.4, m = 1.47;
     
     cout << func (x,y) << endl;
     cout << func (n,m) << endl;

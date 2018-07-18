@@ -171,3 +171,81 @@ x = 2 y = 6 z = 14
 
 Örnekte görüldüğü gibi eğer fonksiyonda uygulanan değişikliği mainde uygulayabilmek için 
 parametrelerin referanslarını gönderdik.
+
+
+
+
+```c++
+#include <iostream>
+using namespace std;
+
+void ciftle (int a, int b, int c)
+{
+  a*=2;
+  b*=2;
+  c*=2;
+}
+
+int main ()
+{
+  int x=1, y=3, z=7;
+
+  ciftle (x, y, z);
+  cout << "x=" << x << ", y=" << y << ", z=" << z;
+
+  return 0;
+}
+```
+
+**Ekran Çıktısı:**
+
+```
+x = 1 y = 3 z = 7
+```
+
+Bu örnekte ise parametreler referans ile gönderilmediği için mainde **ciftle** fonksiyonu etki etmedi.
+
+### Recursive Fonksiyonlar (Özyinelenebilir Fonksiyonlar)
+
+Bu fonksiyonların performans açısından bellekte bir yığın işlemi yaptığı için optimize edilmediğinde
+normal fonksiyonlara göre biraz daha yavaş kalabilir. Ancak bu fark oldukça azdır ve sizi pek
+etkileyeceğini sanmıyorum.
+
+Peki biz neden **recursive** fonksiyonlar kullanmalıyız? Kullanmak zorunde değilsiniz ancak bazı durumlarda
+kolaylık sağlar. Biz faktöriyel hesaplama programı ile örneklendireceğiz konuyu.
+
+**Faktöriyel:**
+
+* n! = n * (n-1) * (n-2) * (n-3) ... * 1
+
+*  5! = 5 * 4 * 3 * 2 * 1 = 120 
+
+```c++
+#include <iostream>
+using namespace std;
+
+long factorial(long a)
+{
+    if (a > 1)
+        return (a * factorial (a-1));
+    else
+        return 1;
+}
+
+int main ()
+{
+    long number = 5;
+
+    cout << number << "! = " << factorial(number);
+    return 0;
+}
+```
+
+**Ekran Çıktısı:**
+
+```
+5! = 120
+```
+
+Gördüğünüz gibi fonksiyon kendini tekrarlayarak bir sayının faktöriyelini 
+hesaplamayı başardı.
