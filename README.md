@@ -2,15 +2,18 @@
 
 <br>
 
-# C++ Örnekler
-
 ## C++ için hazırlanmış bazı örnek kodlar ve açıklamalar
 
 ## Zamanla yenileri eklenecektir
 
 --------------------------
 
-**Yeni Not**
+**Daha Yeni Not**
+
+Sınav haftama girdiğim için bir süre duraksayacak ilerlememiz. Ancak elimden geldiğince katkı sağlamaya
+devam edeceğim. İyi çalışmalar.
+
+**Yeni Not:**
 
 Okulla ilgili işlerim, sosyal işlerim ve çalıştığım yerde olan işlerimden dolayı biraz yavaş ilerliyoruz. 
 Anlayış göstereceğinizi umuyorum :) 
