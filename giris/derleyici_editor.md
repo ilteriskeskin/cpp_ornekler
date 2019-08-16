@@ -15,7 +15,7 @@ derleyiciler geliştirilmiştir.
 Derleyici | Platform | Komut
 --------- | -------- | -----
 GCC       | GNU/Linux ve Diğerleri | g++ -std=c++0x ornek.cpp -o ornek
-Clang     | OS X ve Diğerleri      | clang++ -std=c++11 -stdlib=libc++ ornek.cpp -o ornek
+Clang     | macOS ve Diğerleri      | clang++ -std=c++11 -stdlib=libc++ ornek.cpp -o ornek
 
 ### Editör ve IDE:
 
@@ -28,10 +28,20 @@ yapan araçlardır.
 Ben editör olarak Visual Studio Code, derleyici olarak g++ kullanmaktayım. Tabii siz nasıl rahat ediyorsanız
 onu kullanın.
 
+**Önerilen Editörler**
+
+Editör | Platform
+------ | --------
+Visual Studio Code | GNU/Linux / Windows / macOS
+Atom               | GNU/Linux / Windows / macOS
+Sublime Text       | GNU/Linux / Windows / macOS
+
 **Önerilen IDE'ler**
 
 IDE | Platform
 --- | --------
-Code::blocks  | GNU/Linux/Windows/OS X
+Code::blocks  | GNU/Linux / Windows / macOS
 Dec-C++       | Windows
 Visual Studio | Windows
+CLion         | GNU/Linux / Windows / macOS
+Xcode         | macOS
